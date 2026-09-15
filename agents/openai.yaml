@@ -1,0 +1,4 @@
+interface:
+  display_name: "K-에듀파인 공문 기안"
+  short_description: "프로젝트 파일 기반 추천과 질문으로 공문 기안·본문·결재선·첨부 작성"
+  default_prompt: "$k-edufine-drafting 프로젝트 폴더의 자료를 읽고 항목별 추천안을 제시한 뒤 K-에듀파인 기안문을 작성해줘."
